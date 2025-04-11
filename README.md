@@ -5,11 +5,18 @@
 
 
 
-## About Me
-🎓 Electronics and Instrumentation Engineering (EIE) student at SRM University  
-💡 Participated in exciting tech events like TechnoBlizz and organized National level symposium NOMIZO"24
-💻 Skilled in HTML, CSS, Bootstrap, JavaScript, SQL, Java, DSA, Spring Core & Cloud Computing  
-⚙️ Currently learning React.js to level up my full-stack skills  
+🎓 Electronics and Instrumentation Engineering (EIE) student at SRM University
+
+💡 Participated in exciting tech events like TechnoBlizz and organized the National level symposium NOMIZO'24
+
+💻 Skilled in:
+- HTML, CSS, Bootstrap
+- JavaScript, SQL, Java
+- Data Structures and Algorithms (DSA)
+- Spring Core, Cloud Computing
+
+⚙️ Currently learning React.js to level up my full-stack skills
+
 🚀 Eager to learn new technologies, build innovative projects, and grow continuously!
 
 
